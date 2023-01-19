@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/78c5707b2fffc71fe2a0faf29d4bd5169a6c6131247a4c61ea01cd19744e8313/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f39
-39312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132" 
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" 
 align="center" width="100%" height = "250px" />
-</div>  
+</div> 
 
 
 # 💫 About Me:
