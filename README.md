@@ -1,11 +1,15 @@
-<div align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
-    width="100" alt="Profile Image" />
-</div>
-
 
 # **💫 About Me:**
-Hi there! I'm Sophia Lawal, a passionate and curious individual with an interest in the fascinating world of Machine Learning and its practical applications.
+<div style="display: flex; align-items: center; font-family: 'Arial', sans-serif;">
+  <div style="flex: 1;">
+    <p>
+      Hi there! I'm Sophia Lawal, a passionate and curious individual with an interest in the fascinating world of Machine Learning and its practical applications.
+    </p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Profile Image" style="width: 200px; height: auto;" />
+  </div>
+</div>
 
 Currently, my focus lies in mastering MLOps (Machine Learning Operations). As technology continuously evolves, I believe that seamless integration of Machine Learning models into real-world projects is essential, and MLOps is the key to achieving that. I'm committed to staying on the cutting edge of this rapidly evolving field and learning best practices to efficiently deploy, monitor, and scale ML systems.
 
