@@ -6,7 +6,7 @@
       Hi there! I'm Sophia Lawal, a passionate and curious individual with an interest in the fascinating world of Machine Learning and its practical applications.
     </p>
   </div>
-  <div style="margin-left: 20px;">
+  <div style="margin-left: 10px;">
     <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Profile Image" style="width: 200px; height: auto;" />
   </div>
 </div>
