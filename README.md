@@ -1,7 +1,8 @@
-<div align=“center”>
-<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
-align=“center” width=“10%” height = “20px” />
+<div align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
+    width="100" alt="Profile Image" />
 </div>
+
 
 # **💫 About Me:**
 Hi there! I'm Sophia Lawal, a passionate and curious individual with an interest in the fascinating world of Machine Learning and its practical applications.
