@@ -1,45 +1,16 @@
-<style>
-  body {
-    margin: 0;
-  }
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .image-container {
-    flex: 0 0 20%;
-    padding-right: 20px;
-  }
-  .text-container {
-    flex: 1;
-  }
-  .custom-image {
-    width: 50%; /* Set the desired width here, can be a fixed value or a percentage */
-    height: auto;
-      }
-</style>
-
-<div class="container">
-  <div class="image-container">
-    <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" 
-    align="center" class="custom-image" />
-  </div>
-  <div class="text-container">
-    <h1>💫 About Me:</h1>
-    <p>
-      Hi there! I'm Sophia Lawal, a passionate and curious individual with an interest in the fascinating world of Machine Learning and its practical applications.
-    </p>
-    <p>
-      Currently, my focus lies in mastering MLOps (Machine Learning Operations). As technology continuously evolves, I believe that seamless integration of Machine Learning models into real-world projects is essential, and MLOps is the key to achieving that. I'm committed to staying on the cutting edge of this rapidly evolving field and learning best practices to efficiently deploy, monitor, and scale ML systems.
-    </p>
-    <p>
-      With a background in Machine Learning and a thirst for knowledge, I enjoy exploring complex algorithms. I have hands-on experience in various ML frameworks and libraries, and I'm always excited to dive into new challenges in this ever-changing domain.
-    </p>
-    <p>
-      If you have any questions or want to discuss anything related to Machine Learning, I'd be more than happy to engage in stimulating conversations. Whether it's about model architectures, data preprocessing, or even AI ethics, feel free to reach out and let's brainstorm together!
-    </p>
-  </div>
+<div align=“center”>
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
+align=“center” width=“10%” height = “20px” />
 </div>
+
+# **💫 About Me:**
+Hi there! I'm Sophia Lawal, a passionate and curious individual with an interest in the fascinating world of Machine Learning and its practical applications.
+
+Currently, my focus lies in mastering MLOps (Machine Learning Operations). As technology continuously evolves, I believe that seamless integration of Machine Learning models into real-world projects is essential, and MLOps is the key to achieving that. I'm committed to staying on the cutting edge of this rapidly evolving field and learning best practices to efficiently deploy, monitor, and scale ML systems.
+
+With a background in Machine Learning and a thirst for knowledge, I enjoy exploring complex algorithms. I have hands-on experience in various ML frameworks and libraries, and I'm always excited to dive into new challenges in this ever-changing domain.
+
+If you have any questions or want to discuss anything related to Machine Learning, I'd be more than happy to engage in stimulating conversations. Whether it's about model architectures, data preprocessing, or even AI ethics, feel free to reach out and let's brainstorm together! |
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
