@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=orange&link=https://bolajiayodeji.com)]() [![Blog Badge](https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=purple&link=)]()  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=pink&link=https://www.linkedin.com/in/sophia-lawal)](https://www.linkedin.com/in/sophia-lawal) [![Twitter Badge](https://img.shields.io/badge/-@AyanYemi-3B7EBF?style=for-the-badge&logo=twitter&logoColor=black&link=https://twitter.com/Ayan_Yemi)](https://twitter.com/Ayan_Yemi) ![](https://komarev.com/ghpvc/?username=lawal-hash&style=for-the-badge)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=)]() [![Blog Badge](https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=white&link=)]()  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophia-lawal)](https://www.linkedin.com/in/sophia-lawal) [![Twitter Badge](https://img.shields.io/badge/-@AyanYemi-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ayan_Yemi)](https://twitter.com/Ayan_Yemi) ![](https://komarev.com/ghpvc/?username=lawal-hash&style=for-the-badge)
 
 </div>
 
