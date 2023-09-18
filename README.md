@@ -1,10 +1,11 @@
 <div align="center">
 
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=" alt="Website Badge" width="85" height="13" /></a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://flowcv.me/sophialawal" alt="Website Badge" width="85" height="13" /></a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=white&link=" alt="Blog Badge" width="85" height="13" /></a>
    <a href="https://www.linkedin.com/in/sophia-lawal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophia-lawal" alt="Linkedin Badge" width="85" height="13" /></a>
    <a href="https://twitter.com/Ayan_Yemi" target="_blank"><img src="https://img.shields.io/badge/-@AyanYemi-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ayan_Yemi" alt="Twitter Badge" width="85" height="13" /></a>
    <img src="https://komarev.com/ghpvc/?username=lawal-hash&style=for-the-badge" alt="GitHub Profile Views" width="85" height="13" />
+
 
 </div>
 
