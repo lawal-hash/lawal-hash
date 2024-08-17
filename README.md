@@ -28,7 +28,7 @@
    <img alt="Static Badge" src="https://img.shields.io/badge/Git%09-white?logo=git">
    <img alt="Static Badge" src="https://img.shields.io/badge/Github%09-white?logo=github&logoColor=black">
    <img alt="Static Badge" src="https://img.shields.io/badge/Heroku%09-white?logo=heroku&logoColor=purple">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud%09-white?logo=googlecloud" width="82" height="13" >
+   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud%09-white?logo=googlecloud" >
 </div>
 
 
