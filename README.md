@@ -27,7 +27,9 @@
    <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Airflow%20-white?logo=apacheairflow&logoColor=green">
    <img alt="Static Badge" src="https://img.shields.io/badge/Git%09-white?logo=git">
    <img alt="Static Badge" src="https://img.shields.io/badge/Github%09-white?logo=github&logoColor=black">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Docker%20-white?logo=docker">
    <img alt="Static Badge" src="https://img.shields.io/badge/Heroku%09-white?logo=heroku&logoColor=purple">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Databricks%20-white?logo=databricks">
    <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud%09-white?logo=googlecloud" >
 </div>
 
