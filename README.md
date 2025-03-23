@@ -67,7 +67,7 @@
         <h4 align="center">OlistELT Pipeline</h3>
         <p align="center">
           <a href="https://github.com/lawal-hash/OlistELT" target="_blank">
-            <img src="images/final_diagram.png" width="100%" alt="Project"/>
+            <img src="images/OlistELTx3.png" width="100%" alt="Project"/>
           </a>
           <p align="center">
           </p>
