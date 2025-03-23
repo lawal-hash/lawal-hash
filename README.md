@@ -24,6 +24,7 @@
             <kbd>Transformation Tools</kbd>
             <br>
             <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Spark%20-white?logo=apachespark">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Hive%20-white?logo=apachehive&logoColor=orange">
             <img alt="Static Badge" src="https://img.shields.io/badge/dbt%09-white?logo=dbt">
             <img alt="Static Badge" src="https://img.shields.io/badge/Pandas%09-white?logo=pandas&logoColor=blue">
         </kbd>
