@@ -46,16 +46,16 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow%09-white?logo=Tensorflow">
     </kbd>
     <kbd>
-        <kbd>Orchestration</kbd>
-        <br>
-        <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Airflow%20-white?logo=apacheairflow&logoColor=green">
-    </kbd>
-    <kbd>
         <kbd>Cloud Services</kbd>
         <br>
         <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud%09-white?logo=googlecloud" >
         <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%09-white?logo=amazon" >
         <img alt="Static Badge" src="https://img.shields.io/badge/Databricks%09-white?logo=databricks" >
+    </kbd>
+    <kbd>
+        <kbd>Orchestration</kbd>
+        <br>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Airflow%20-white?logo=apacheairflow&logoColor=green">
     </kbd>
 </div>
 
