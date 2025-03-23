@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=081C25&center=true&vCenter=true&multiline=true&width=500&height=60&lines=I'm+Sophia+Lawal;I'm+a+Data+Engineer+and+Analytical+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=0099FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=I'm+Sophia+Lawal;I'm+a+Data+Engineer+and+Analytical+Engineer" alt="Typing SVG" /></a>
 </div>
 
 <div>
