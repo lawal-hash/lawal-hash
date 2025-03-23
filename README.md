@@ -57,7 +57,36 @@
     </kbd>
 </div>
 
-
+<div>
+<h2 align="center">Featured Projects</h2>
+<!-- Interactive project cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h4 align="center">OlistELT Pipeline</h3>
+        <p align="center">
+          <a href="https://github.com/lawal-hash/OlistELT" target="_blank">
+            <img src="images/final_diagram.png" width="100%" alt="Project"/>
+          </a>
+          <p align="center">
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h4 align="center">SalesELT Pipeline</h3>
+        <p align="center">
+          <a href="https://github.com/lawal-hash/SalesELT" target="_blank">
+            <img src="images/test.png" width="100%" alt="Sales ELT"/>
+          </a>
+          <p align="center">
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
 
 <div align="center">
 <a>
@@ -73,3 +102,11 @@
   <img height=150 align="center" src="https://quotes-github-readme.vercel.app/api?type=compact">
 </a>
 </div>
+
+
+
+
+
+
+
+
