@@ -31,15 +31,15 @@
 
 <div align="center">
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lawal-hash&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lawal-hash&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 </a>
 <a>
-  <img height=150 align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=lawal-hash&theme=transparent&hide_border=true&background=00000000&fire=FF9554&dates=1D0A0A" alt="GitHub Streak" />
+  <img height=200 align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=lawal-hash&theme=transparent&hide_border=true&background=00000000&fire=FF9554&dates=1D0A0A" alt="GitHub Streak" />
 </a>
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawal-hash&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawal-hash&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&layout=compact">
 </a>
 <a>
-  <img height=150 align="center" src="https://quotes-github-readme.vercel.app/api?type=compact">
+  <img height=200 align="center" src="https://quotes-github-readme.vercel.app/api?type=compact">
 </a>
 </div>
