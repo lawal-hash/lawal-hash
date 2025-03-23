@@ -31,11 +31,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lawal-hash&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawal-hash&theme=transparent&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FFFF&fire=FF9554&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lawal-hash&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawal-hash&theme=transparent&hide_border=true&background=00000000&fire=FF9554&dates=1D0A0A" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawal-hash&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&layout=compact">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawal-hash&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&layout=compact">
+</div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical">
 
 </div>
