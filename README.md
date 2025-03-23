@@ -64,7 +64,7 @@
 </div>
 
 <div>
-<h2 align="center">Featured Projects</h2>
+<h4 align="center">Featured Projects</h4>
 <!-- Interactive project cards -->
 <div align="center">
   <table>
