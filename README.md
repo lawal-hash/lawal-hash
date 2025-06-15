@@ -97,9 +97,6 @@
 
 <div align="center">
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lawal-hash&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-</a>
-<a>
   <img height=150 align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=lawal-hash&theme=transparent&hide_border=true&background=00000000&fire=FF9554&dates=1D0A0A" alt="GitHub Streak" />
 </a>
 <a>
